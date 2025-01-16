@@ -1,0 +1,28 @@
+span {
+  color: rgb(247, 47, 32);
+  background-color: rgb(239, 232, 221);
+  font-size: large;
+  font-style: italic;
+}
+.explain {
+  font-size: large;
+}
+.objs {
+  padding-bottom: 1.5rem;
+  background-color: rgb(247, 236, 222);
+}
+div[class^="select"] {
+  margin-top: 70px;
+  margin-right: 50px;
+  margin-left: 50px;
+  width: 450px;
+  height: 340px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: aquamarine;
+  display: inline-block;
+}
+object {
+  width: inherit;
+  height: inherit;
+}
